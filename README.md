@@ -3,7 +3,6 @@
 **Cybersecurity Professional | Detection Engineering | Blue Team**
 
 🎓 M.S. Cybersecurity — Syracuse University  
-💼 2+ years Software Engineering @ Tanama Software | Cloud Security Intern @ Word of Mouth Technologies  
 🔐 Currently focused on Detection Engineering, SOC Operations & Threat Analysis
 
 ---
