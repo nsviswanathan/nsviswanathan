@@ -11,6 +11,7 @@
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=flat-square)
+![PenTest+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=flat-square)
 ![CEH](https://img.shields.io/badge/EC--Council-CEH-blue?style=flat-square)
 ![eJPT](https://img.shields.io/badge/INE-eJPT-orange?style=flat-square)
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-yellow?style=flat-square)
